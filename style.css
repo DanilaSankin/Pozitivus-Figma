@@ -461,6 +461,10 @@ a {
     width: 265px;
 }
 
+.case-studies__text {
+    width: 580px;
+}
+
 .case-studies__element {
     border-right: 1px solid var(--color-white);
     padding-right: 64px;
